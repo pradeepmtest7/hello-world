@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to kapstone, pune!!! </h1>
+<h1> Hello, Welcome to kapstone, PUNE </h1>
 
